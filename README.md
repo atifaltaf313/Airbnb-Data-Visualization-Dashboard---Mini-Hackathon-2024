@@ -1,3 +1,6 @@
+
+![Screenshot (2)](https://github.com/user-attachments/assets/8ea472be-66e9-4b55-89a1-6471da07f517)
+
 # Airbnb Dashboard - Mini Hackathon 2024
 
 This repository contains the code and design for a dashboard created during a mini-hackathon held in 2024, focused on Airbnb rentals in the Greater Manchester area. The task involved exploring a dataset containing various details about Airbnb properties, such as rental profiles, geographic data, availability, and ratings.
